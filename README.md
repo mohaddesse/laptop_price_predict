@@ -6,7 +6,7 @@ we have this dataset:
 after cleaning , feature enginearing:
 ![image](https://user-images.githubusercontent.com/36596572/216631461-5281c655-c29f-4f04-aad6-c6deb4233f8a.png)
 
-for transform categorical data to numerical data I've used OneHotEncoding and after that for modeling I've used Pipline.
+for transform categorical data to numerical data I've used **OneHotEncoding** and after that for modeling I've used **Pipline**.
 
 machine learning algorithm implemented:  
 
@@ -24,3 +24,6 @@ machine learning algorithm implemented:
 random forest and xgboost has the best perfomance among them.**
 
 ![image](https://user-images.githubusercontent.com/36596572/216639363-ba7a7d69-dc58-4600-8936-02fc4959d51f.png)
+
+
+on other hand we have a function that checks linear regression assumptions like **linearity hemoscedasticity,normality...**
